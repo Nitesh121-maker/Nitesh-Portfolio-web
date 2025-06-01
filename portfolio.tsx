@@ -194,7 +194,7 @@ export default function Portfolio() {
                 <div className="mt-8 flex justify-center">
                   <Button
                     className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white"
-                    onClick={() => window.open("/resume.pdf", "_blank")}
+                    onClick={() => window.open("/Nitesh Chauhan(Associate Software Engineer).pdf", "_blank")}
                   >
                     <span className="flex items-center gap-2">
                       <FileText className="w-4 h-4" />
