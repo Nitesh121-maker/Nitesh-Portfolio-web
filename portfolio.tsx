@@ -338,14 +338,14 @@ export default function Portfolio() {
             </div>
             <div className="flex justify-center gap-6">
               <Link
-                href="https://www.linkedin.com/in/nitesh-chauhan-5689a9193/"
+                href="https://github.com/Nitesh121-maker"
                 className="glass-card rounded-lg p-4 flex items-center gap-2 text-slate-300 hover:text-white transition-colors"
               >
                 <Github className="w-6 h-6" />
                 <span>GitHub</span>
               </Link>
               <Link
-                href="https://github.com/Nitesh121-maker"
+                href="https://www.linkedin.com/in/nitesh-chauhan-5689a9193/"
                 className="glass-card rounded-lg p-4 flex items-center gap-2 text-slate-300 hover:text-white transition-colors"
               >
                 <Linkedin className="w-6 h-6" />
