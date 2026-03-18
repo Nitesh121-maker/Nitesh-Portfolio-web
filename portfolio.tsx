@@ -3,6 +3,7 @@
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import Achievements from "./components/achievements"
 import {
   Code2,
   Database,
@@ -250,6 +251,9 @@ export default function Portfolio() {
           </div>
         </section>
       </AnimatedSection>
+
+      {/* Achievements Section */}
+      <Achievements />
 
       {/* Skills Section */}
       <AnimatedSection>
