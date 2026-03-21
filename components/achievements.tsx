@@ -29,7 +29,7 @@ const achievements: Achievement[] = [
   {
     id: 2,
     title: "Promotion",
-    description: "Promoted to Senior Full Stack Developer role in recognition of outstanding performance and expertise",
+    description: "Promoted to Senior Backend Developer role in recognition of outstanding performance and expertise",
     date: "2025",
     icon: "star",
     category: "Career Milestone",
