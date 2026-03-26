@@ -140,7 +140,7 @@ export default function Portfolio() {
                 size="lg"
                 variant="outline"
                 className="border-slate-500 text-slate-300 hover:bg-slate-700/50"
-                onClick={() => window.open("/Nitesh Chauhan(Associate Software Engineer).pdf", "_blank")}
+                onClick={() => window.open("/Nitesh_Chauhan_Backend_Developer.pdf", "_blank")}
               >
                 <span className="flex items-center gap-2">
                   Download Resume
@@ -195,7 +195,7 @@ export default function Portfolio() {
                 <div className="mt-8 flex justify-center">
                   <Button
                     className="bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white"
-                    onClick={() => window.open("/Nitesh Chauhan(Associate Software Engineer).pdf", "_blank")}
+                    onClick={() => window.open("/Nitesh_Chauhan_Backend_Developer", "_blank")}
                   >
                     <span className="flex items-center gap-2">
                       <FileText className="w-4 h-4" />
