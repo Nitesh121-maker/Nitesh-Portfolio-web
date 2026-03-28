@@ -95,7 +95,7 @@ export default function Navbar() {
               ))}
               <Button
                 className="mt-2 bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white"
-                onClick={() => window.open("/Nitesh Chauhan(Associate Software Engineer).pdf", "_blank")}
+                onClick={() => window.open("//Nitesh_Chauhan_Backend_Developer.pdf", "_blank")}
               >
                 Resume
               </Button>
